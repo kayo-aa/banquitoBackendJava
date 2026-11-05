@@ -20,6 +20,6 @@ Se debe desarrollar un backend que cumpla con los requerimientos listados a cont
 ![Modelo](entidad-relacion.png)
 
 ## Qué entregar?
-Como entregable se espera un fork de este repositorio con la implementación de los diferentes requerimientos. 
+Como entregable se espera la implementación de los diferentes requerimientos. 
 El código debe poder ejecutarse y se pretende que se haga uso de al menos Java 17 para resolver el challenge.
 Debe hacerse uso de Spring Boot y Spring Data JPA para implementar la solución.
